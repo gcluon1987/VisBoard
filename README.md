@@ -1,2 +1,0 @@
-# VisBoard
-Team GJB project
